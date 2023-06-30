@@ -1,4 +1,4 @@
-![Header](./github-header-image2.png)
+![Header](./realbanner.png)
 
 <h1 align="center">Hi, I'm Miguel Whyte</h1>
 <h3 align="center">A passionate frontend developer from United States|Atlanta, Ga|</h3>
